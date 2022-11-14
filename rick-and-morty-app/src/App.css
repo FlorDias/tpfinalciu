@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.footer{
+  background-color: black;
+}
+
+.colorLetra{
+  color: white;
+}
+
+.encabezado{
+  position: sticky;
+  top: 0;
+  clear: both;
+  z-index: 100;
+}

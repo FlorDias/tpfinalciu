@@ -3,6 +3,7 @@ import Navbar from './components/Navbar';
 import React, {useEffect, useState} from 'react';
 import Characters from './components/Characters';
 import Pagination from './components/Pagination';
+import Footer from './components/Footer';
 
 function App() {
 
@@ -52,6 +53,7 @@ const onNext = () => {
           onPrevius={onPrevius}
           onNext={onNext}/>
       </div>
+      <Footer/>
     </div>
   );
 }
