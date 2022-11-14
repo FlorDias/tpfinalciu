@@ -15,13 +15,13 @@ const Footer = () => {
                     <div class="col-lg-6 col-md-12 mb-4 mb-md-0">
                         <h5 class="text-uppercase colorLetra">Redes Sociales</h5>
                         <p className="colorLetra">
-                        <i class="bi bi-twitter colorLetra">Twitter:</i> @TheRickAndMortyApp
+                        <i class="bi bi-twitter colorLetra"> Twitter:</i> @TheRickAndMortyApp
                         </p>
                         <p className="colorLetra">
-                        <i class="bi bi-facebook colorLetra">Facebook:</i> The Rick And Morty App
+                        <i class="bi bi-facebook colorLetra"> Facebook:</i> The Rick And Morty App
                         </p>
                         <p className="colorLetra">
-                        <i class="bi bi-instagram colorLetra">Instagram:</i> The Rick And Morty App
+                        <i class="bi bi-instagram colorLetra"> Instagram:</i> The Rick And Morty App
                         </p>
                     </div>
                 </div>
